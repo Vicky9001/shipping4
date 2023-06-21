@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="789204dd-25d8-42a0-8361-483202ee6654" name="Changes" comment="第四次个人作业" />
+    <list id="14c51c2c-c3c7-4b79-a910-c50b8cf982d9" name="Default Changelist" comment="?" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="module-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="zjy" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N4dRFT8Je10YZTgFDPRx1mAYAw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;13&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/shipping-sys/shipping-service/src/main/java/com/example/client&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2505747&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4fd9c0f4f2ec419de1ec1d0256cb3ed9&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;F:/practice_3.2/test/wms/external-service/pom.xml&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;F:/docker/SmartHamster&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\shipping-sys\shipping-service\src\main\java\com\example\client" />
+      <recent name="D:\shipping-sys\user-service\src\main\resources" />
+      <recent name="D:\shipping-sys\user-service" />
+      <recent name="D:\shipping-sys\user-service\src\main\java" />
+      <recent name="D:\shipping-sys" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\practice_3.2\test\wms\external-service\src\test\resources\features" />
+      <recent name="D:\.workspace\springboot\SmartHamster3\warehousing-management\src\test\resources\features" />
+      <recent name="D:\.workspace\springboot\SmartHamster\warehousing-management" />
+      <recent name="D:\.workspace\springboot\SmartHamster\purchasing-management\src\main\java\com\example\mapper" />
+      <recent name="D:\.workspace\springboot\SmartHamster\warehousing-management\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="services" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.service.check" />
+      <recent name="com.example.controller.check" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.client" />
+      <recent name="" />
+      <recent name="com.example.services" />
+      <recent name="com.example.controllers" />
+      <recent name="auth.repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 更新盘点记录" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/Check.feature" />
+      <option name="GLUE" value="com.example.bdd.check" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^更新盘点记录$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^更新盘点记录$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 更新盘点记录" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 获取盘点单列表" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/Check.feature" />
+      <option name="GLUE" value="com.example.bdd.check" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^获取盘点单列表$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^获取盘点单列表$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 获取盘点单列表" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 创建一个调拨任务" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/external-service/src/test/resources/features/OutBound.feature" />
+      <option name="GLUE" value="com.example.bdd.outBound" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="external-service" />
+      <option name="NAME_FILTER" value="^创建一个调拨任务$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^创建一个调拨任务$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 创建一个调拨任务" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 获取盘点单列表" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/Check.feature" />
+      <option name="GLUE" value="com.example.bdd.check" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^获取盘点单列表$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^获取盘点单列表$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 获取盘点单列表" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 获取出库单列表" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/StokeOut.feature" />
+      <option name="GLUE" value="com.example.bdd.stokeOut" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^获取出库单列表$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^获取出库单列表$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 获取出库单列表" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 更新出库状态" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/StokeOut.feature" />
+      <option name="GLUE" value="com.example.bdd.stokeOut" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^更新出库状态$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^更新出库状态$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 更新出库状态" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 创建一个盘点任务" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/warehousing-management/src/test/resources/features/Check.feature" />
+      <option name="GLUE" value="com.example.bdd.check" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="warehousing-management" />
+      <option name="NAME_FILTER" value="^创建一个盘点任务$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^创建一个盘点任务$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 创建一个盘点任务" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nacos" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="false" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/nacos/bin/startup.cmd" />
+      <option name="SCRIPT_OPTIONS" value="-m standalone" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExternalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shipping-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Shipping" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ShippingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shipping-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ShippingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cccc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shipping-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: 创建一个盘点任务" />
+      <item itemvalue="Shell Script.nacos" />
+      <item itemvalue="Spring Boot.ShippingApplication (1)" />
+      <item itemvalue="Spring Boot.UserApplication (2)" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.UserApplication (1)" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ExternalApplication" />
+      <item itemvalue="Spring Boot.ShippingApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShippingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789204dd-25d8-42a0-8361-483202ee6654" name="Changes" comment="" />
+      <changelist id="14c51c2c-c3c7-4b79-a910-c50b8cf982d9" name="Default Changelist" comment="?" />
+      <created>1678927279347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678927279347</updated>
+      <workItem from="1678927280966" duration="841000" />
+      <workItem from="1678928130207" duration="8057000" />
+      <workItem from="1678975963417" duration="3468000" />
+      <workItem from="1679104068519" duration="28961000" />
+      <workItem from="1679294016765" duration="49000" />
+      <workItem from="1679298100317" duration="857000" />
+      <workItem from="1679317219762" duration="82000" />
+      <workItem from="1679378591069" duration="10540000" />
+      <workItem from="1679406976710" duration="8986000" />
+      <workItem from="1679477825491" duration="271000" />
+      <workItem from="1679478131108" duration="11178000" />
+      <workItem from="1679559462772" duration="421000" />
+      <workItem from="1679559912533" duration="4000" />
+      <workItem from="1679734894187" duration="10415000" />
+      <workItem from="1679805186615" duration="706000" />
+      <workItem from="1679817510655" duration="1493000" />
+      <workItem from="1679819145534" duration="25197000" />
+      <workItem from="1679908727830" duration="15769000" />
+      <workItem from="1679975526787" duration="3697000" />
+      <workItem from="1680062685273" duration="19662000" />
+      <workItem from="1680089761682" duration="30000" />
+      <workItem from="1680090237604" duration="5909000" />
+      <workItem from="1680101545416" duration="7324000" />
+      <workItem from="1680144896693" duration="16896000" />
+      <workItem from="1680162453392" duration="20896000" />
+      <workItem from="1680228890891" duration="33962000" />
+      <workItem from="1681712139448" duration="663000" />
+      <workItem from="1681720764386" duration="5542000" />
+      <workItem from="1681798452970" duration="9863000" />
+      <workItem from="1681865732995" duration="2484000" />
+      <workItem from="1681893879630" duration="928000" />
+      <workItem from="1681959804180" duration="597000" />
+      <workItem from="1682047286596" duration="2339000" />
+      <workItem from="1682081660230" duration="3400000" />
+      <workItem from="1682129662609" duration="3677000" />
+      <workItem from="1682211855874" duration="1762000" />
+      <workItem from="1682299908234" duration="23000" />
+      <workItem from="1682304003890" duration="1717000" />
+      <workItem from="1682607898891" duration="31000" />
+      <workItem from="1683614412563" duration="16039000" />
+      <workItem from="1683902173899" duration="390000" />
+      <workItem from="1684068876640" duration="1657000" />
+      <workItem from="1684813012952" duration="5531000" />
+      <workItem from="1684840834664" duration="2742000" />
+      <workItem from="1685085369639" duration="28000" />
+      <workItem from="1685172031970" duration="3546000" />
+      <workItem from="1685245972540" duration="29573000" />
+      <workItem from="1685341761447" duration="9118000" />
+      <workItem from="1685368090569" duration="7639000" />
+      <workItem from="1685412095231" duration="5727000" />
+      <workItem from="1685417985899" duration="1931000" />
+      <workItem from="1685466047699" duration="2824000" />
+      <workItem from="1685525831182" duration="1944000" />
+      <workItem from="1686034295789" duration="2655000" />
+      <workItem from="1686037463742" duration="19524000" />
+      <workItem from="1686397501200" duration="16927000" />
+      <workItem from="1686635258445" duration="6845000" />
+      <workItem from="1686789618912" duration="81000" />
+      <workItem from="1687102848465" duration="170000" />
+      <workItem from="1687108548844" duration="15892000" />
+      <workItem from="1687222153924" duration="7016000" />
+      <workItem from="1687231943723" duration="16483000" />
+      <workItem from="1687363473883" duration="954000" />
+    </task>
+    <task id="LOCAL-00001" summary="仓库基本配置">
+      <created>1679153916108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679153916108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="仓库基本配置1.1">
+      <created>1679412812997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679412812997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="仓库基本配置1.2">
+      <created>1679485864072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679485864073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="用户管理（角色更改未改好）">
+      <created>1679852555814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679852555814</updated>
+    </task>
+    <task id="LOCAL-00005" summary="用户管理+菜单权限">
+      <created>1679929875357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679929875357</updated>
+    </task>
+    <task id="LOCAL-00006" summary="?">
+      <created>1680670541768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680670541768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改bug">
+      <created>1681810550776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681810550776</updated>
+    </task>
+    <task id="LOCAL-00008" summary="连接远程数据库+nacos">
+      <created>1683902519151</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683902519151</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gateway+docker">
+      <created>1684069312933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684069312933</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <created>1684069957063</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684069957063</updated>
+    </task>
+    <task id="LOCAL-00011" summary="nacos:39.107.156.214">
+      <created>1685193203308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685193203308</updated>
+    </task>
+    <task id="LOCAL-00012" summary="check测试">
+      <created>1685375601341</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685375601341</updated>
+    </task>
+    <task id="LOCAL-00013" summary="把数据库和nacos先替换了本地的，测试完成后再修改推送到自动化部署那个仓库&#10;出库测试完成（不知道为什么黄瓜测试有的时候运行顺利有的时候不行）">
+      <created>1685468824640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685468824640</updated>
+    </task>
+    <task id="LOCAL-00014" summary="滴——">
+      <created>1685527809346</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685527809346</updated>
+    </task>
+    <task id="LOCAL-00015" summary="采购添加支付功能">
+      <created>1686036395955</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686036395955</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test">
+      <created>1686643297820</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686643297820</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第四次个人作业">
+      <created>1687363655170</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687363655170</updated>
+    </task>
+    <task id="LOCAL-00018" summary="第四次个人作业">
+      <created>1687364009942</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687364009942</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="仓库基本配置" />
+    <MESSAGE value="仓库基本配置1.1" />
+    <MESSAGE value="仓库基本配置1.2" />
+    <MESSAGE value="用户管理" />
+    <MESSAGE value="用户管理（角色更改未改好）" />
+    <MESSAGE value="用户管理+菜单权限" />
+    <MESSAGE value="入库模块" />
+    <MESSAGE value="?" />
+    <MESSAGE value="修改bug" />
+    <MESSAGE value="连接远程数据库+nacos" />
+    <MESSAGE value="gateway+docker" />
+    <MESSAGE value="1" />
+    <MESSAGE value="nacos:39.107.156.214" />
+    <MESSAGE value="check测试" />
+    <MESSAGE value="把数据库和nacos先替换了本地的，测试完成后再修改推送到自动化部署那个仓库&#10;出库测试完成（不知道为什么黄瓜测试有的时候运行顺利有的时候不行）" />
+    <MESSAGE value="滴——" />
+    <MESSAGE value="采购添加支付功能" />
+    <MESSAGE value="单点登录+debug" />
+    <MESSAGE value="test" />
+    <MESSAGE value="第四次个人作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次个人作业" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shipping-service/src/main/java/com/example/controller/sys/UserController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckControllerTest_getOrder.ic" NAME="CheckControllerTest.getOrder Coverage Results" MODIFIED="1685256143195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.controller.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckControllerTest_updateOrder.ic" NAME="CheckControllerTest.updateOrder Coverage Results" MODIFIED="1685252061285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.controller.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_getList.ic" NAME="CheckServiceTest.getList Coverage Results" MODIFIED="1685269406096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_changeState.ic" NAME="CheckServiceTest.changeState Coverage Results" MODIFIED="1685269644345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_testUpdate.ic" NAME="CheckServiceTest.testUpdate Coverage Results" MODIFIED="1685260662893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_create.ic" NAME="CheckServiceTest.create Coverage Results" MODIFIED="1685259951592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_finish.ic" NAME="CheckServiceTest.finish Coverage Results" MODIFIED="1685261488853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckServiceTest_testGetList.ic" NAME="CheckServiceTest.testGetList Coverage Results" MODIFIED="1685253163888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.service.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckControllerTest_changeState.ic" NAME="CheckControllerTest.changeState Coverage Results" MODIFIED="1685252398493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.controller.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckStepRunner.ic" NAME="CheckStepRunner Coverage Results" MODIFIED="1685418899888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.bdd.check.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SmartHamster3$CheckControllerTest_createOrder.ic" NAME="CheckControllerTest.createOrder Coverage Results" MODIFIED="1685250826399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.controller.check.*</FILTER>
+    </SUITE>
+  </component>
+</project>

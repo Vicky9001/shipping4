@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/user-service/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auth-service" />
+        <module name="user-service" />
+        <module name="commons" />
+        <module name="gateway" />
+        <module name="role-service" />
+        <module name="shipping-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cccc" target="1.5" />
+      <module name="check-management" target="13" />
+      <module name="info-service" target="13" />
+      <module name="out-management" target="13" />
+      <module name="purchasing-management" target="13" />
+      <module name="record-service" target="13" />
+      <module name="transfer-management" target="13" />
+      <module name="user-service (1)" target="1.8" />
+      <module name="warehouse-management" target="13" />
+      <module name="warehousing-management" target="13" />
+      <module name="warning-management" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-service" options="-parameters" />
+      <module name="cccc" options="" />
+      <module name="check-management" options="-parameters" />
+      <module name="commons" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="info-service" options="-parameters" />
+      <module name="out-management" options="-parameters" />
+      <module name="purchasing-management" options="-parameters" />
+      <module name="record-service" options="-parameters" />
+      <module name="role-service" options="-parameters" />
+      <module name="shipping-service" options="-parameters" />
+      <module name="transfer-management" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="user-service (1)" options="-parameters" />
+      <module name="warehouse-management" options="-parameters" />
+      <module name="warehousing-management" options="-parameters" />
+      <module name="warning-management" options="-parameters" />
+    </option>
+  </component>
+</project>

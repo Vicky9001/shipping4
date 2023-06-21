@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="user-service/Hibernate">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <ServerVersion>8.0.29</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="bs"/>
+    <schema id="3" parent="1" name="crudsample_db"/>
+    <schema id="4" parent="1" name="db"/>
+    <schema id="5" parent="1" name="external"/>
+    <schema id="6" parent="1" name="information_schema"/>
+    <schema id="7" parent="1" name="library"/>
+    <schema id="8" parent="1" name="mysql"/>
+    <schema id="9" parent="1" name="performance_schema"/>
+    <schema id="10" parent="1" name="public"/>
+    <schema id="11" parent="1" name="shipping">
+      <Current>1</Current>
+    </schema>
+    <schema id="12" parent="1" name="sys"/>
+    <schema id="13" parent="1" name="test"/>
+    <schema id="14" parent="1" name="warehouse"/>
+    <schema id="15" parent="1" name="web"/>
+  </database-model>
+</dataSource>

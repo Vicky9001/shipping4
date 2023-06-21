@@ -1,0 +1,226 @@
+2023-06-19 12:19:09,562 INFO Starting Nacos v1.4.4 using Java 1.8.0_241 on LAPTOP-402K6JN5 with PID 7724 (D:\shipping-sys\nacos\target\nacos-server.jar started by 华为 in D:\shipping-sys)
+
+2023-06-19 12:19:09,563 INFO The following 1 profile is active: "standalone"
+
+2023-06-19 12:19:12,891 INFO Tomcat initialized with port(s): 8848 (http)
+
+2023-06-19 12:19:12,902 INFO Starting service [Tomcat]
+
+2023-06-19 12:19:12,902 INFO Starting Servlet engine: [Apache Tomcat/9.0.60]
+
+2023-06-19 12:19:13,276 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2023-06-19 12:19:13,338 INFO Initializing Spring embedded WebApplicationContext
+
+2023-06-19 12:19:13,338 INFO Root WebApplicationContext: initialization completed in 3662 ms
+
+2023-06-19 12:19:13,824 INFO HikariPool-1 - Starting...
+
+2023-06-19 12:19:13,827 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2023-06-19 12:19:14,333 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2023-06-19 12:19:14,336 INFO HikariPool-1 - Start completed.
+
+2023-06-19 12:19:15,548 INFO Nacos-related cluster resource initialization
+
+2023-06-19 12:19:15,557 INFO The cluster resource is initialized
+
+2023-06-19 12:19:15,817 INFO Reflections took 38 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2023-06-19 12:19:15,843 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2023-06-19 12:19:15,857 INFO Reflections took 4 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2023-06-19 12:19:15,865 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2023-06-19 12:19:16,704 INFO Adding welcome page: class path resource [static/index.html]
+
+2023-06-19 12:19:17,071 WARN You are asking Spring Security to ignore Ant [pattern='/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2023-06-19 12:19:17,073 INFO Will secure Ant [pattern='/**'] with []
+
+2023-06-19 12:19:17,108 INFO Will not secure any request
+
+2023-06-19 12:19:17,135 INFO Exposing 1 endpoint(s) beneath base path '/actuator'
+
+2023-06-19 12:19:17,202 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2023-06-19 12:19:17,227 INFO Started Nacos in 9.343 seconds (JVM running for 9.974)
+
+2023-06-19 12:19:17,228 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2023-06-19 12:22:28,751 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2023-06-19 12:22:28,751 INFO Initializing Servlet 'dispatcherServlet'
+
+2023-06-19 12:22:28,754 INFO Completed initialization in 1 ms
+
+2023-06-19 12:29:16,021 INFO [capacityManagement] start correct usage
+
+2023-06-19 12:29:16,070 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 12:29:16,115 WARN clearConfigHistory start
+
+2023-06-19 12:39:16,085 INFO [capacityManagement] start correct usage
+
+2023-06-19 12:39:16,088 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 12:39:16,148 WARN clearConfigHistory start
+
+2023-06-19 12:49:16,100 INFO [capacityManagement] start correct usage
+
+2023-06-19 12:49:16,101 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 12:49:16,163 WARN clearConfigHistory start
+
+2023-06-19 12:59:16,113 INFO [capacityManagement] start correct usage
+
+2023-06-19 12:59:16,115 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 12:59:16,176 WARN clearConfigHistory start
+
+2023-06-19 13:09:16,116 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:09:16,120 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:09:16,179 WARN clearConfigHistory start
+
+2023-06-19 13:19:16,125 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:19:16,129 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:19:16,188 WARN clearConfigHistory start
+
+2023-06-19 13:29:16,133 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:29:16,135 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:29:16,196 WARN clearConfigHistory start
+
+2023-06-19 13:39:16,137 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:39:16,149 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:39:16,200 WARN clearConfigHistory start
+
+2023-06-19 13:49:16,164 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:49:16,175 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:49:16,210 WARN clearConfigHistory start
+
+2023-06-19 13:59:16,181 INFO [capacityManagement] start correct usage
+
+2023-06-19 13:59:16,181 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 13:59:16,221 WARN clearConfigHistory start
+
+2023-06-19 14:09:16,188 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:09:16,188 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:09:16,233 WARN clearConfigHistory start
+
+2023-06-19 14:19:16,197 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:19:16,208 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:19:16,243 WARN clearConfigHistory start
+
+2023-06-19 14:29:16,212 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:29:16,214 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:29:16,259 WARN clearConfigHistory start
+
+2023-06-19 14:39:16,216 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:39:16,228 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:39:16,262 WARN clearConfigHistory start
+
+2023-06-19 14:49:16,242 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:49:16,254 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:49:16,273 WARN clearConfigHistory start
+
+2023-06-19 14:59:16,262 INFO [capacityManagement] start correct usage
+
+2023-06-19 14:59:16,269 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 14:59:16,278 WARN clearConfigHistory start
+
+2023-06-19 15:09:16,282 WARN clearConfigHistory start
+
+2023-06-19 15:09:16,282 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:09:16,287 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 15:19:16,289 WARN clearConfigHistory start
+
+2023-06-19 15:19:16,289 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:19:16,303 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 15:29:16,304 WARN clearConfigHistory start
+
+2023-06-19 15:29:16,304 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:29:16,306 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 15:39:16,313 WARN clearConfigHistory start
+
+2023-06-19 15:39:16,313 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:39:16,314 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 15:49:16,330 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:49:16,330 WARN clearConfigHistory start
+
+2023-06-19 15:49:16,331 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 15:59:16,333 WARN clearConfigHistory start
+
+2023-06-19 15:59:16,333 INFO [capacityManagement] start correct usage
+
+2023-06-19 15:59:16,334 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:09:16,335 WARN clearConfigHistory start
+
+2023-06-19 16:09:16,335 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:09:16,338 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:19:16,339 WARN clearConfigHistory start
+
+2023-06-19 16:19:16,339 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:19:16,341 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:29:16,346 WARN clearConfigHistory start
+
+2023-06-19 16:29:16,346 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:29:16,347 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:39:16,353 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:39:16,353 WARN clearConfigHistory start
+
+2023-06-19 16:39:16,363 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:49:16,364 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:49:16,366 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:49:16,379 WARN clearConfigHistory start
+
+2023-06-19 16:59:16,371 INFO [capacityManagement] start correct usage
+
+2023-06-19 16:59:16,372 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-19 16:59:16,387 WARN clearConfigHistory start
+
